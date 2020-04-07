@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 2.0.3
+
+- Add field "app_url"
+
 ## Version 2.0.2
 
 - Add field "apns_push_type_override"
